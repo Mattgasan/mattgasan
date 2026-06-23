@@ -1,5 +1,14 @@
 ## Olá, meu nome é Matheus Gasan!
 
+<p>Sou um Desenvolvedor Front-End focado no Desenvolvimento Web mas com rota para o FullStack.</p>
+
+<p>Atualmente Web Dev na <a href="https://www.piticostudio.com.br" target="_blank">Pitico Studio Design</a></p>
+
+<ol>
+  <li>Uso diariamente: <code>.php</code>, <code>laravel</code>, <code>tailwindcss</code>, <code>vite.configs</code>, <code>.js</code></li>
+</ol>
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattgasan&show_icons=true?theme=monokai)](https://github.com/mattgasan/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattgasan&layout=donut)](https://github.com/mattgasan/)
 
