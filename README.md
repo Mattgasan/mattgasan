@@ -11,6 +11,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattgasan&show_icons=true?theme=monokai)](https://github.com/mattgasan/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattgasan&layout=donut)](https://github.com/mattgasan/)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mattgasan&theme=monokai&hide_border=true)](https://git.io/streak-stats)
 
 <h1>Tech Stack</h1>
 
